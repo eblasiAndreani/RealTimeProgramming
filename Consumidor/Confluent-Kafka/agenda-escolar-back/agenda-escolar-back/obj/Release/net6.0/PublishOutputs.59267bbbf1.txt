@@ -1,0 +1,11 @@
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\agenda-escolar-back.exe
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\agenda-escolar-back.dll
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\agenda-escolar-back.deps.json
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\agenda-escolar-back.runtimeconfig.json
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\agenda-escolar-back.pdb
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eblasi\Documents\ProyectosTrabajo\Universidad\RealTimeProgramming\Consumidor\Confluent-Kafka\agenda-escolar-back\agenda-escolar-back\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

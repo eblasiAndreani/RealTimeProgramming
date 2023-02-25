@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOdqC8PG3YEmj1i4GZVa44gAAAAACAAAAAAADZgAAwAAAABAAAAB7tUWacJyEENuYt6OSa6WzAAAAAASAAACgAAAAEAAAAD7UA57eSvO45J+LfS/c3zwYAAAA/MPvhA2b4CNMfXdj0gIEH2lXmLcl+nCzFAAAAGtb8+5auGzqhIs3LvffRHOmrGfw</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.37/www.mateblasi.somee.com</_PublishTargetUrl>
+    <History>True|2023-02-25T03:03:36.2959174Z;False|2023-02-25T00:00:34.5062680-03:00;False|2023-02-24T23:57:36.1881977-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="agenda-escolar-back.deps.json">
+      <publishTime>02/25/2023 00:02:34</publishTime>
+    </File>
+    <File Include="agenda-escolar-back.dll">
+      <publishTime>02/25/2023 00:02:34</publishTime>
+    </File>
+    <File Include="agenda-escolar-back.exe">
+      <publishTime>02/25/2023 00:02:34</publishTime>
+    </File>
+    <File Include="agenda-escolar-back.pdb">
+      <publishTime>02/25/2023 00:02:34</publishTime>
+    </File>
+    <File Include="agenda-escolar-back.runtimeconfig.json">
+      <publishTime>02/24/2023 23:57:26</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/24/2023 23:44:16</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/24/2023 23:44:16</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 17:14:12</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 09:54:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 09:54:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>10/16/2021 09:54:30</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/25/2023 00:02:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
